@@ -13,10 +13,11 @@
 }
 ```
 
-
- This is only partial code on kernel construction functions, and the GP codes are not provided but similar to impulseest() in MATLAB.  The integrated codes will be provided in a developing toolbox.
+ This is only partial code on kernel construction functions, and the GP codes are not provided but similar to impulseest() in MATLAB.  
+ The integrated codes will be provided in a developing toolbox.
+ You are welcome to email me (xiaozhufang@link.cuhk.edu.cn) or Prof. Chen (tchen@cuhk.edu.cn) for the complete codes.  
+ 
 
 - main function ncsi_kernel.m
 - tc_kernel_SI_bs_test3.m (equivalent to tc_kernel_SI_bs.m) is the file consistent with the paper's notations, but it is inefficient. (tc_kernel_SI_bs.m is more efficient)
-
 - generate_linear_system_randomly.m is the file to generate Monte Carlo experiments of the non-minimum phase systems (D2-D3 in the paper)
