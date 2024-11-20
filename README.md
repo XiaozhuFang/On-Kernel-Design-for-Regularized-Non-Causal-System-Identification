@@ -1,6 +1,7 @@
 # On-Kernel-Design-for-Regularized-Non-Causal-System-Identification
  
 - Here is the formula of the NCSI kernel for the Automatica paper ``On Kernel Design for Regularized  Non-Causal System Identification'', see
+ ```
 - @article{fang2024kernel,
   title={On kernel design for regularized non-causal system identification},
   author={Fang, Xiaozhu and Chen, Tianshi},
@@ -10,6 +11,8 @@
   year={2024},
   publisher={Elsevier}
 }
+```
+
 
  This is only partial code on kernel construction functions, and the GP codes are not provided but similar to impulseest() in MATLAB.  The integrated codes will be provided in a developing toolbox.
 
